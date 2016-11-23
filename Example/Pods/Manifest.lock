@@ -1,0 +1,16 @@
+PODS:
+  - TZPod (0.1.0)
+
+DEPENDENCIES:
+  - TZPod (from `../`)
+
+EXTERNAL SOURCES:
+  TZPod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TZPod: c27d9eb23582c5e5d1b5856e7e2f0a7dddc6f7df
+
+PODFILE CHECKSUM: c21e8dddfc7c62a2c5ea09b51b46520d4206b1e5
+
+COCOAPODS: 1.1.1
