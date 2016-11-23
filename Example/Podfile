@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TZPod_Example' do
+  pod 'TZPod', :path => '../'
+
+  target 'TZPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
